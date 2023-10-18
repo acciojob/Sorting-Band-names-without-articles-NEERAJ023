@@ -23,5 +23,5 @@ function getarticlestring(word){
 		}
 		return true;
 	})
-	return text.join("");
+	return text.join(" ");
 }
